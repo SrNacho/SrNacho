@@ -1,5 +1,6 @@
 #### Hi, I'm Ignacio. 👨‍💻
 ### Backend developer
+##### Actually learning 📚: Django
 --- 
 Find me on 🌎:
 * [LinkedIn](https://www.linkedin.com/in/ignacio-nicolas-aguirre/)
